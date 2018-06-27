@@ -1,0 +1,255 @@
+VK initialized with user 29670766
+{'photo': 'https://pp.userapi.com/c834301/v834301431/10e934/IltXUt17qOw.jpg', 'text': 'Шнуров знает, как пережить кризис', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgoo.gl%2Fm6SpZP&post=-2089898_52105&el=snippet'}
+{'photo': 'https://sun1-1.userapi.com/c840729/v840729276/6fd38/h0H1lA1oGcc.jpg', 'text': 'Люксовые марки, которые избавились от меха в своих коллекциях', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fwww.elle.ru%2Fmoda%2Ffashion-blog%2Fpolnyi-spisok-lyuksovyh-marok-otkazavshihsya-ot-meha-id6764371%2F&post=-7144938_95989&el=snippet'}
+{'photo': 'https://sun1-2.userapi.com/c840632/v840632157/72a53/ZizP9x6V4zk.jpg', 'text': '3 способа избавиться от нависшего века', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fbazaar.ru%2Fbeauty%2Freviews%2F3-sposoba-izbavitsya-ot-navisshego-veka%2F&post=-37416018_24319&el=snippet'}
+{'photo': 'https://pp.userapi.com/c840333/v840333075/7411e/x2MWGawsiSI.jpg', 'text': 'Светлана Ходченкова:"Мне некогда переживать о своей внешности»', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgraziamagazine.ru%2Ffashion%2Fsvetlana-hodchenkovamne-nekogda-perezhivat-o-svoey-vneshnosti%2F&post=-37523614_37880&el=snippet'}
+{'photo': 'https://pp.userapi.com/c845421/v845421732/27a36/6QQzq8xiX0U.jpg', 'text': 'Вышел трейлер «8 подруг Оушена»: Кейт Бланшетт, Рианна и все-все-все', 'url': 'https://vk.com//away.php?to=http%3A%2F%2Famp.gs%2FCYVL&post=-54218032_100653&el=snippet'}
+{'photo': 'https://pp.userapi.com/c621703/v621703404/837a2/bokUpYrWW1M.jpg', 'text': '18 главных тенденций сезона весна-лето 2018', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fwww.vogue.ru%2Ffashion%2Ftrends%2F18_glavnykh_tendentsiy_sezona_vesna_leto_2018%2F&post=-24396213_105035&el=snippet'}
+{'post_id': 366120}
+VK initialized with user 29670766
+None
+{'url': 'http://instagram.com/p/Bhg2gxBFa6l', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/816089782bcca960733c8ad15353163a/5B6EA886/t51.2885-15/s640x640/sh0.08/e35/29739243_1169612956508706_8089347821414645760_n.jpg', 'text': 'WAKE UP CALL—you can get 40% off PJ’s, camis, lingerie & more right now! ⏰ Excl. apply. Ends 4.16. 🇺🇸🇨🇦 only.'}
+{'url': 'http://instagram.com/p/BhhDFe6nQHz', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/0a63a16c291d772c5d6315079b0a7095/5B68964B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/30079090_575004059546076_6718624861620535296_n.jpg', 'text': 'Loved hanging out with you last night, Salt Lake! #MOTWTOUR'}
+None
+{'url': 'http://instagram.com/p/BhfZdsyHpH0', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/e228c12883ea41df162a8b161f3c2f69/5AD3BB5E/t51.2885-15/e15/29737652_192690278012971_7806020811856281600_n.jpg', 'text': 'Thanks to the @greatestshowman cast and crew for this amazing journey. We 💯 percent filmed this interview on the last day of the movie. Man was I zonked 😂 ...more importantly thanks to the fans for showing so much love and support. We are feelin it. 🙏 ❤️@thehughjackman @visualprostitute @kealasettle @zendaya @pasekandpaul'}
+{'url': 'http://instagram.com/p/Bhf75TBH_79', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/1da564ba36c640a61642849c0f103da3/5B531687/t51.2885-15/s640x640/sh0.08/e35/30079419_1675768435791912_2926668445812523008_n.jpg', 'text': 'Me and the big man having a casual dinner ... Always amazing to be in the presence of a true legend @shaq @lakers 💜💛'}
+{'url': 'http://instagram.com/p/BhfmlpHg0bw', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/b7e36622f663a4ac2e4f914452569c18/5AD3E129/t51.2885-15/s640x640/e15/29740835_1546618165451079_6966514735969730560_n.jpg', 'text': 'Finally. I have friends.'}
+None
+{'url': 'http://instagram.com/p/BhfY7DfBlsy', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/59a4c8517a922ca826e411af814d2478/5B6D2DDC/t51.2885-15/s640x640/sh0.08/e35/c127.0.825.825/29738338_488827094848446_2640737101229850624_n.jpg', 'text': 'so many secrets #tbt'}
+{'post_id': 366121}
+VK initialized with user 29670766
+{'url': 'https://vk.com//away.php?to=https%3A%2F%2Fwww.vogue.ru%2Ffashion%2Ffavourites-of-vogue%2F15_neskuchnykh_yubok_karandashey_na_vesnu%2F&post=-24396213_105083&el=snippet', 'text': '15 нескучных юбок-карандаш на весну', 'photo': 'https://pp.userapi.com/c840334/v840334231/75a5b/fj_ogbghuXQ.jpg'}
+{'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgoo.gl%2FwZeghZ&post=-2089898_52117&el=snippet', 'text': '30 морских пейзажей из Италии', 'photo': 'https://pp.userapi.com/c846321/v846321827/2600f/Ab_NUPxsLiU.jpg'}
+{'url': 'https://vk.com//away.php?to=http%3A%2F%2Famp.gs%2FCtM0&post=-7144938_96052&el=snippet', 'text': 'Что купить в Японии из косметики? Лучшая японская косметика', 'photo': 'https://pp.userapi.com/c846522/v846522459/23811/VJ-rjvTaysg.jpg'}
+{'url': 'https://vk.com//away.php?to=https%3A%2F%2Fbazaar.ru%2Fbeauty%2Freviews%2F3-sposoba-izbavitsya-ot-navisshego-veka%2F&post=-37416018_24319&el=snippet', 'text': '3 способа избавиться от нависшего века', 'photo': 'https://sun1-2.userapi.com/c840632/v840632157/72a53/ZizP9x6V4zk.jpg'}
+{'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgraziamagazine.ru%2Ffashion%2Fsvetlana-hodchenkovamne-nekogda-perezhivat-o-svoey-vneshnosti%2F&post=-37523614_37880&el=snippet', 'text': 'Светлана Ходченкова:"Мне некогда переживать о своей внешности»', 'photo': 'https://pp.userapi.com/c840333/v840333075/7411e/x2MWGawsiSI.jpg'}
+{'url': 'https://vk.com//away.php?to=http%3A%2F%2Famp.gs%2FCYVL&post=-54218032_100653&el=snippet', 'text': 'Вышел трейлер «8 подруг Оушена»: Кейт Бланшетт, Рианна и все-все-все', 'photo': 'https://pp.userapi.com/c845421/v845421732/27a36/6QQzq8xiX0U.jpg'}
+{'post_id': 366173}
+VK initialized with user 29670766
+None
+{'text': 'Sharing Uni shots with this little man @cruzbeckham ♥️', 'url': 'http://instagram.com/p/Bhij5h3n5EQ', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/12ad24a3a21fb5f61a175ea37bd90ff2/5B73AB8E/t51.2885-15/s640x640/sh0.08/e35/30086746_822336107954902_4267122005112782848_n.jpg'}
+None
+{'text': 'O Cristiano foi o melhor marcador da escola! Parabéns filho!👏🏽🔝👌🏽', 'url': 'http://instagram.com/p/BhjfupyFFch', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/7e4fa44d26028f3aef8c723d6c7a3ef1/5B5A9B4A/t51.2885-15/s640x640/sh0.08/e35/c0.125.1000.1000/30077324_163130561003226_5500748144234725376_n.jpg'}
+None
+None
+None
+{'text': 'the 60s started it. #chella18', 'url': 'http://instagram.com/p/BhjshqtDlSM', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/fe896981d2375222c8ac196166d49b76/5B5D70CA/t51.2885-15/e35/29740410_386791945123462_8433308868565532672_n.jpg'}
+None
+{'text': '🐥', 'url': 'http://instagram.com/p/BhjdkGlDW17', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/b55b4662c98083acac504cf4eaa98fb3/5B6D7034/t51.2885-15/s640x640/sh0.08/e35/c0.1.1080.1080/30086525_417701781988460_5462429695855296512_n.jpg'}
+None
+None
+{'text': 'Making the most of that Friday traffic...', 'url': 'http://instagram.com/p/Bhh0aaqFfc0', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/7e32bd38279e9b01b27192e41df1a7d0/5B6491FB/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/29739505_2066919633593463_2746302720146145280_n.jpg'}
+{'text': 'Oops I did it again... #Coachella', 'url': 'http://instagram.com/p/BhiCvZnBZde', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/81799bc90e125b46926ec28a0b54c9d3/5B594CBF/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/30076648_175682753087919_5790403856823222272_n.jpg'}
+{'post_id': 366225}
+VK initialized with user 29670766
+{'text': 'Лучшие пляжи Испании и Португалии', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgoo.gl%2FZTgMFe&post=-2089898_52142&el=snippet', 'photo': 'https://pp.userapi.com/c824600/v824600097/1131c9/sV2qxSVzxDo.jpg'}
+{'text': 'В тени гения: Почему роль музы — это надувательство', 'url': 'https://vk.com//away.php?to=http%3A%2F%2Famp.gs%2FCmH6&post=-54218032_100802&el=snippet', 'photo': 'https://sun9-2.userapi.com/c840636/v840636688/781c7/R_FDId6fq44.jpg'}
+{'text': 'Главные тренды в стрижках и окрашивании нового сезона', 'url': 'https://vk.com//away.php?to=http%3A%2F%2Famp.gs%2FCm5w&post=-7144938_96088&el=snippet', 'photo': 'https://sun9-5.userapi.com/c840720/v840720137/75118/gH0fHf_S1N0.jpg'}
+{'text': 'Вещь дня: сумка Louis Vuitton Venice', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fwww.vogue.ru%2Ffashion%2Ffavourites-of-vogue%2Fveshch_dnya_sumka_louis_vuitton_venice%2F&post=-24396213_105110&el=snippet', 'photo': 'https://sun9-1.userapi.com/c840420/v840420947/781ba/q6xzDZy3AXk.jpg'}
+{'text': '12 лучших образов Эммы Уотсон, которые заставят вас влюбиться в нее еще раз', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fbazaar.ru%2Ffashion%2Fgeroi%2F12-luchshih-obrazov-emmy-uotson-kotorye-zastavyat-vas-vlyubitsya-v-nee-eshche-raz%2F&post=-37416018_24346&el=snippet', 'photo': 'https://pp.userapi.com/c834103/v834103838/1159f3/mlSt3NjJazk.jpg'}
+{'text': 'Алессандра Амбросио прилетела на музыкальный фестиваль Коачелла', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgraziamagazine.ru%2Fnews%2Falessandra-ambrosio-priletela-na-muzykalnyy-festival-koachella%2F&post=-37523614_37933&el=snippet', 'photo': 'https://pp.userapi.com/c834401/v834401980/1161ba/KE2mc2uOj9Y.jpg'}
+{'post_id': 366279}
+VK initialized with user 29670766
+{'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/d60cc59e3d4d40e4621209f939ca4152/5B516F72/t51.2885-15/s640x640/sh0.08/e35/30592872_206050976662674_4551079661899087872_n.jpg', 'url': 'http://instagram.com/p/Bhkk2iVnYXL', 'text': '💛💚’s only in these comments #humboldtstrong'}
+Traceback (most recent call last):
+  File "/home/alex/faces/getPopularMediaFromInstagram.py", line 67, in <module>
+    media = getPopularMediaFromInstagram(username)
+  File "/home/alex/faces/getPopularMediaFromInstagram.py", line 29, in getPopularMediaFromInstagram
+    "text": items[max_i]["node"]["edge_media_to_caption"]["edges"][0]["node"]["text"],
+IndexError: list index out of range
+VK initialized with user 29670766
+{'photo': 'https://pp.userapi.com/c846322/v846322514/276f8/5C1H5qwg1cs.jpg', 'text': '20 актуальных правил поведения современного гурмана', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgoo.gl%2FPM51fP&post=-2089898_52146&el=snippet'}
+{'photo': 'https://pp.userapi.com/c824700/v824700728/10f482/39DbbTHqIQ0.jpg', 'text': 'В закладки: Текст, помогающий понять, как читают люди с дислексией', 'url': 'https://vk.com//away.php?to=http%3A%2F%2Famp.gs%2FCpV4&post=-54218032_100871&el=snippet'}
+{'photo': 'https://pp.userapi.com/c830708/v830708496/d05e2/eu7jx9U0QwA.jpg', 'text': 'Туфли + носки: самые модные сочетания сезона', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fwww.elle.ru%2Fmoda%2Ftrendy%2Fpochemu-umenie-nosit-noski-osobenno-prigoditsya-vam-etoi-vesnoi-id6764351%2F&post=-7144938_96139&el=snippet'}
+{'photo': 'https://pp.userapi.com/c845017/v845017075/2a5b5/x56Ab2di0H4.jpg', 'text': '50-летняя Николь Кидман в платье с открытой спиной произвела фурор на церемонии ACM Awards', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fbazaar.ru%2Ffashion%2Fgeroi%2F50-letnyaya-nikol-kidman-v-plate-s-otkrytoy-spinoy-proizvela-furor-na-ceremonii-acm-awards%2F&post=-37416018_24362&el=snippet'}
+{'photo': 'https://pp.userapi.com/c621706/v621706430/84520/MCDdI3cvp5g.jpg', 'text': 'Шопинг с Иваковой: что привезти из Франции, Америки и других стран', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgraziamagazine.ru%2Ffashion%2Fshoping-s-ivakovoy-chto-privezti-iz-francii-ameriki-i-drugih-stran%2F&post=-37523614_37949&el=snippet'}
+{'photo': 'https://pp.userapi.com/c845420/v845420123/2aee4/kZLoiTui2_Q.jpg', 'text': 'Вещь дня: резиновые перчатки Calvin Klein 205W39NYC цвета жвачки', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fwww.vogue.ru%2Ffashion%2Ffavourites-of-vogue%2Fveshch_dnya_rezinovye_perchatki_calvin_klein_205w39nyc_tsveta_zhvachki%2F&post=-24396213_105188&el=snippet'}
+{'post_id': 366460}
+VK initialized with user 29670766
+None
+None
+None
+None
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/aca2c86b6e568846a0865b6d788b9879/5B6E81EC/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/30077041_555390094845564_1374235401228648448_n.jpg', 'url': 'http://instagram.com/p/Bho153ElYrq'}
+None
+None
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/c57678a1d18b69a522b4653587a22906/5B59C549/t51.2885-15/s640x640/sh0.08/e35/30087065_1090713761070263_7598832890872332288_n.jpg', 'url': 'http://instagram.com/p/Bhnd9yCnK7h'}
+None
+None
+None
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/8109b95c57564ffbd8599563b2dabcb0/5B4E8E63/t51.2885-15/s640x640/sh0.08/e35/30592534_196915684429091_5833535262734417920_n.jpg', 'url': 'http://instagram.com/p/BhoV0YFlHYF'}
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/6e094690b87cfa2041bdb1b706428e31/5B559476/t51.2885-15/s640x640/sh0.08/e35/c0.86.1080.1080/30076797_159788384852304_7547227248198156288_n.jpg', 'url': 'http://instagram.com/p/BhmhWRzjVtf'}
+None
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/cf532193c148442d5c2206da9ffcf7e1/5AD7B74D/t51.2885-15/s640x640/e15/30077832_1717185691673779_6793525668173840384_n.jpg', 'url': 'http://instagram.com/p/Bhm2k1FApfN'}
+None
+None
+None
+None
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/151c4c8e68d4cf2b7e2040dd2e891328/5B716A47/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/30078592_207723149957885_5993737654544367616_n.jpg', 'url': 'http://instagram.com/p/BhnSDdUFzPo'}
+{'post_id': 366535}
+VK initialized with user 29670766
+{'text': 'В России дополнили список «неженских профессий»', 'url': 'https://vk.com//away.php?to=http%3A%2F%2Famp.gs%2FClHS&post=-54218032_100929&el=snippet', 'photo': 'https://pp.userapi.com/c844417/v844417988/2c093/OCYRAx7jTyk.jpg'}
+{'text': '11 образов для невест, которые заставят вас забыть о классических белых платьях', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fbazaar.ru%2Ffashion%2Fcollections%2F11-obrazov-dlya-nevest-kotorye-zastavyat-vas-zabyt-o-klassicheskih-belyh-platyah%2F&post=-37416018_24393&el=snippet', 'photo': 'https://pp.userapi.com/c840330/v840330618/7aec2/995d3h_Xzr4.jpg'}
+{'text': '6 модных правил Виктории Бекхэм', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fwww.vogue.ru%2Ffashion%2Fnews%2F6_modnykh_pravil_viktorii_bekkhem%2F&post=-24396213_105229&el=snippet', 'photo': 'https://pp.userapi.com/c831209/v831209121/d2dd8/kkU25p1w1oY.jpg'}
+{'text': 'Павел Дуров о том, чем грозит блокировка Telegram', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgoo.gl%2FF1RxQp&post=-2089898_52168&el=snippet', 'photo': 'https://pp.userapi.com/c847018/v847018073/275ce/2SUD81QfzNg.jpg'}
+{'text': 'Эволюция образов Виктории Бекхэм ', 'url': 'https://vk.com//away.php?to=http%3A%2F%2Fwww.elle.ru%2Fmoda%2Fzvezdny-stil%2Fviktoriya-bekhem-id6765361%2F%3Futm_source%3Dvkontakte%26utm_medium%3Dsocial%26utm_content%3Dwww.elle.ru%252F&post=-7144938_96232&el=snippet', 'photo': 'https://pp.userapi.com/c845420/v845420937/2c07c/5ucQIuWYtA8.jpg'}
+{'text': '17-летняя дочь Ивана Урганта рассекретила своего красавца-бойфренда', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgraziamagazine.ru%2Fnews%2F17-letnyaya-doch-ivana-urganta-rassekretila-svoego-krasavca-boyfrenda%2F&post=-37523614_38003&el=snippet', 'photo': 'https://sun1-2.userapi.com/c840731/v840731122/7a57b/OnOyvIGfCOA.jpg'}
+{'post_id': 366667}
+VK initialized with user 29670766
+None
+{'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/dc4bc2a601e656c40eb9849e28c907ff/5B59A911/t51.2885-15/s640x640/sh0.08/e35/c0.74.1080.1080/30593365_218851442206516_8625139829039955968_n.jpg', 'text': '', 'url': 'http://instagram.com/p/BhpByAZnuBE'}
+None
+{'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/fc9fc3ce751dc532c0cf598e0084d6fc/5B68DC14/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/30829339_394017387738686_5033658575210151936_n.jpg', 'text': '', 'url': 'http://instagram.com/p/BhpXQf1Bv6K'}
+None
+None
+{'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/68a7bcf93ec764f52d4fb4fd03cd8f93/5B57ACAF/t51.2885-15/s640x640/sh0.08/e35/c182.0.715.715/30086304_159136878097074_3445141912644747264_n.jpg', 'text': '', 'url': 'http://instagram.com/p/BhpENZcnJMK'}
+{'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/d380173558d37c0c612c0c79dd2411fb/5AD8B130/t51.2885-15/e15/c236.0.607.607/30590779_155464218621334_5185340099797188608_n.jpg', 'text': '', 'url': 'http://instagram.com/p/Bhpp9cIHLKg'}
+None
+None
+{'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/e584c2dbf9dd6c9a064025d14e3522e1/5B73DF98/t51.2885-15/s640x640/sh0.08/e35/30590620_178775819440170_5907393075134595072_n.jpg', 'text': '', 'url': 'http://instagram.com/p/Bho6qLGjUpT'}
+None
+None
+{'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/a923efdcf50787981ee0645ed9d3ef7f/5AD916B6/t51.2885-15/s640x640/e15/c0.90.720.720/30078717_568497826882881_159787201616412672_n.jpg', 'text': '', 'url': 'http://instagram.com/p/BhpNGBcgkqR'}
+{'post_id': 366727}
+VK initialized with user 29670766
+{'photo': 'https://pp.userapi.com/c845017/v845017778/2b7cb/-YX9pqGNijM.jpg', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fwww.vogue.ru%2Fcollection%2Fspring_summer2019%2Fbridal%2Fnyu-york%2FVera_Wang%2F&post=-24396213_105250&el=snippet', 'text': 'Vera Wang'}
+{'photo': 'https://pp.userapi.com/c834302/v834302315/114f79/ebA90tDr1Og.jpg', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgraziamagazine.ru%2Fnews%2Fposlerodovaya-depressiya-kayli-dzhenner-postoyanno-menyaet-obrazy-ishcha-sebya%2F&post=-37523614_38062&el=snippet', 'text': 'Послеродовая депрессия? Кайли Дженнер постоянно меняет образы, ища себя'}
+{'photo': 'https://pp.userapi.com/c845216/v845216413/32ee2/T3zGtuqdPFY.jpg', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fbazaar.ru%2Ffashion%2Fgeroi%2Fotkrytye-plechi-i-pyshnaya-yubka-novyy-bezuprechnyy-obraz-melanii-tramp%2F&post=-37416018_24436&el=snippet', 'text': 'Открытые плечи и пышная юбка: новый безупречный образ Мелании Трамп'}
+{'photo': 'https://pp.userapi.com/c830309/v830309659/deb7a/W2UhqEI2jhE.jpg', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fwww.gq.ru%2Fstyle%2Fpuma-x-soyuzmultfilm%3Futm_source%3Dvk.com%26utm_medium%3Dsocial%26utm_campaign%3Dpyatachok-ili-volk-iz-nu-pogodi%21--slozhn%26utm_content%3D18774687&post=-2089898_52266&el=snippet', 'text': 'Puma выпустят кроссовки в коллаборации с «Союзмультфильмом»'}
+{'photo': 'https://pp.userapi.com/c830408/v830408072/d821b/cuwBfnT4ot4.jpg', 'url': 'https://vk.com//away.php?to=http%3A%2F%2Fwww.elle.ru%2Fmoda%2Fnovosty%2Fkollaboraciya-puma-i-mc-id6765801%2F%3Futm_source%3Dvkontakte%26utm_medium%3Dsocial%26utm_content%3Dwww.elle.ru%252F&post=-7144938_96313&el=snippet', 'text': 'Коллаборация PUMA и M.A.C'}
+{'photo': 'https://pp.userapi.com/c847018/v847018650/27478/M-5yhDw0yM4.jpg', 'url': 'https://vk.com//away.php?to=http%3A%2F%2Famp.gs%2FCGmC&post=-54218032_101318&el=snippet', 'text': 'Жир — это феминистская тема: Почему все перешли на интуитивное питание'}
+{'post_id': 366840}
+VK initialized with user 29670766
+{'text': '', 'url': 'http://instagram.com/p/BhsPwFth7AV', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/381daf9a95ad45b34c1449be510de396/5AD97E9D/t51.2885-15/s640x640/e15/30078817_1677275532309650_8994114714183139328_n.jpg'}
+None
+{'text': '', 'url': 'http://instagram.com/p/Bht62Uwl1ey', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/3b6b5118808c785afd44c4465cbc981f/5B6B075A/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/30605239_767165230145472_6008724513427030016_n.jpg'}
+None
+{'text': '', 'url': 'http://instagram.com/p/BhsymaLjg_h', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/ad09792fbeba41701022548f8ea2b054/5B6E3315/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/30591204_189979825130682_2397230382740144128_n.jpg'}
+None
+None
+None
+{'text': '', 'url': 'http://instagram.com/p/Bhr3vFaFGyf', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/899111627b128f57acb5207bc30d7d7d/5B593EC9/t51.2885-15/s640x640/sh0.08/e35/c0.133.1080.1080/30591507_151975248970388_1402617081991528448_n.jpg'}
+None
+None
+None
+{'text': '', 'url': 'http://instagram.com/p/Bht1WvYFvB8', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/f8ad01040af3d150efbf45331637f239/5B6E6D9C/t51.2885-15/e35/c32.0.612.612/30605160_163719074285888_5881987957031698432_n.jpg'}
+{'text': '', 'url': 'http://instagram.com/p/BhsO6qYFVT6', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/911ecb8fdf1c4d1a548a82f1ef9b39a7/5B5DD395/t51.2885-15/s640x640/sh0.08/e35/30079205_217021235549572_2955232224598818816_n.jpg'}
+{'post_id': 366898}
+VK initialized with user 29670766
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 594, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 350, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 837, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 323, in connect
+    ssl_context=context)
+  File "/usr/lib/python3/dist-packages/urllib3/util/ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 385, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 760, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 996, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 641, in do_handshake
+    self._sslobj.do_handshake()
+OSError: [Errno 0] Error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 643, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 334, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 594, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 350, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 837, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 323, in connect
+    ssl_context=context)
+  File "/usr/lib/python3/dist-packages/urllib3/util/ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 385, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 760, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 996, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 641, in do_handshake
+    self._sslobj.do_handshake()
+requests.packages.urllib3.exceptions.ProtocolError: ('Connection aborted.', OSError(0, 'Error'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/alex/faces/getPopularMediaFromVK.py", line 67, in <module>
+    media = getPopularMediaFromVK(vk, -group_id)
+  File "/home/alex/faces/getPopularMediaFromVK.py", line 38, in getPopularMediaFromVK
+    "wall_start_from": max_i
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 110, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', OSError(0, 'Error'))
+VK initialized with user 29670766
+None
+None
+None
+None
+None
+{'text': '', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/e14289a7ab6d070fb0187a8cbf5b838c/5B6683AC/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/30830761_794879767387506_887747917354369024_n.jpg', 'url': 'http://instagram.com/p/Bhuj_wklwde'}
+{'text': '', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/0d0725d6a66d6c10622caa63826d3798/5B705032/t51.2885-15/s640x640/sh0.08/e35/c42.0.996.996/30085584_165952744118096_8878886664391360512_n.jpg', 'url': 'http://instagram.com/p/BhuQYYKHUGo'}
+None
+None
+{'text': '', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/9b1230ee9df37a093156e2a2bcf4b550/5ADB3A09/t51.2885-15/s640x640/e15/c0.90.720.720/30593336_2336428729704469_7473730513698553856_n.jpg', 'url': 'http://instagram.com/p/Bhur3U2H2bS'}
+None
+{'text': '', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/93ce17637e0980509fab309691d22e6b/5B6C9D84/t51.2885-15/s640x640/sh0.08/e35/30085442_1957080524592582_3185642518356164608_n.jpg', 'url': 'http://instagram.com/p/BhwjjONDQ1v'}
+None
+None
+None
+None
+None
+None
+{'text': '', 'photo': 'https://instagram.fhel2-1.fna.fbcdn.net/vp/4948a0a21da70e58f6c5ef116acda7ae/5B56101B/t51.2885-15/s640x640/sh0.08/e35/30841464_2030229790534370_1770248170652041216_n.jpg', 'url': 'http://instagram.com/p/BhvoNN_lfTH'}
+None
+{'post_id': 367068}
+VK initialized with user 29670766
+{'text': '«Тренер» – фильм Козловского про Козловского', 'url': 'https://vk.com//away.php?to=https%3A%2F%2Fgoo.gl%2FZHM9SU&post=-2089898_52328&el=snippet', 'photo': 'https://sun1-4.userapi.com/c840628/v840628582/7409e/40hDd6Sjgvs.jpg'}
+Traceback (most recent call last):
+  File "/home/alex/faces/getPopularMediaFromVK.py", line 71, in <module>
+    message += "%s: «%s»\n%s\n\n" % (alias, media["text"], vk.getShortLink(media["url"]))
+  File "/home/alex/faces/vk.py", line 64, in getShortLink
+    response = self.makeRequest("utils.getShortLink", {"url": url})
+  File "/home/alex/faces/vk.py", line 30, in makeRequest
+    return json["response"]
+KeyError: 'response'
+VK initialized with user 29670766
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/5dfca98041f87fd1658eaebbd40a3987/5ADC7FB1/t51.2885-15/s640x640/e15/30592503_601456663523341_6402891709633527808_n.jpg', 'url': 'http://instagram.com/p/Bhw9968F-z-'}
+None
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/721da5c91f776dba3f7f3f454934c192/5B65884C/t51.2885-15/s640x640/sh0.08/e35/30605509_1002980899858408_455865689903726592_n.jpg', 'url': 'http://instagram.com/p/BhyrW_WFPWu'}
+None
+None
+None
+None
+None
+None
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/850aaf8385ffd82fc084ac7834f845ff/5B5C4FAB/t51.2885-15/s640x640/sh0.08/e35/30086201_199754034154502_3531908730289389568_n.jpg', 'url': 'http://instagram.com/p/Bhw0DMQgkj0'}
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/3720013da46d26359e9992b6781c80a1/5B62F485/t51.2885-15/s640x640/sh0.08/e35/c45.0.990.990/30086051_2015914815328105_495794725249351680_n.jpg', 'url': 'http://instagram.com/p/BhxlDP9Ho--'}
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/f8beff1cc093c83ca9bd6d54a0f3d7a6/5B9C7D71/t51.2885-15/s640x640/sh0.08/e35/30593144_167011460630796_4364175080452784128_n.jpg', 'url': 'http://instagram.com/p/BhyAzqcDGhF'}
+{'text': '', 'photo': 'https://scontent-arn2-1.cdninstagram.com/vp/0593af8186c7861ec5b814757a6ca0b0/5B5CEAB0/t51.2885-15/s640x640/sh0.08/e35/30590178_410076349403891_7632210005147516928_n.jpg', 'url': 'http://instagram.com/p/BhxdZQlhIar'}
+{'post_id': 367274}
